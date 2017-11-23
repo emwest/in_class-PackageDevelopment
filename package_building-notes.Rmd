@@ -1,0 +1,6 @@
+---
+title: "package building notes"
+author: "Emily West"
+date: "11/23/2017"
+output: html_document
+---
